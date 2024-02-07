@@ -1,0 +1,8 @@
+cmake-build-debug
+/build
+/install
+/log
+.vscode
+.idea
+
+
