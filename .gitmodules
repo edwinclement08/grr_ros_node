@@ -1,3 +1,6 @@
 [submodule "src/cpp_pubsub/ompl"]
 	path = src/cpp_pubsub/ompl
 	url = https://github.com/ompl/ompl
+[submodule "src/grr_solver/ompl"]
+	path = src/grr_solver/ompl
+	url = https://github.com/ompl/ompl
