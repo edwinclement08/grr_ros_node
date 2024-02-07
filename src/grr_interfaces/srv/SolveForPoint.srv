@@ -1,0 +1,5 @@
+float64[] point
+float64[] curr_joint_config
+bool nearest_node_only 0
+---
+float64[] new_joint_config
